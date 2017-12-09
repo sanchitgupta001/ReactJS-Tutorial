@@ -7,7 +7,7 @@ cd ReactJS-Tutorial/myapp
 
 npm install
 
-npm run start
+npm start
 
 You are good to go!
 Play around with React and this repo is always open for contributions. 
